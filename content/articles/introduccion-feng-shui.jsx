@@ -122,7 +122,7 @@ function Masthead({ menuOpen, setMenuOpen }) {
   );
 }
 
-export default function SenalArticulo() {
+export default function IntroduccionFengShui() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (

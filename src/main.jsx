@@ -1,9 +1,9 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import SenalArticulo from "../articulo.jsx";
+import IntroduccionFengShui from "../content/articles/introduccion-feng-shui";
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <SenalArticulo />
+    <IntroduccionFengShui />
   </React.StrictMode>,
 );
